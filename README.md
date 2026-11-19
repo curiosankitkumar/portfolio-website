@@ -1,3 +1,7 @@
+## 🌐 Live Demo
+
+**[View My Portfolio](https://portfolio-website-kappa-six-11.vercel.app/)**
+
 # Cosmic Portfolio
 
 A cinematic, space-themed developer portfolio built with React, Vite, Tailwind CSS, Framer Motion, GSAP/ScrollTrigger and React Three Fiber (Three.js).
